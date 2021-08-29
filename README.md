@@ -1,5 +1,15 @@
-### Hi, I'm Beck 👋
+### Hi there 👋, I'm Beck
+#### Design and Development
+![Design and Development](https://twitter.com/japagodd/header_photo)
 
-I'm a UI designer and frontend developer. I enjoy wireframing, ui, ux and product design. I also enjoy implementing my designs with web development languages (HTML, CSS, JavaScript) and frameworks like bootstrap and React.
+I'm a UI designer and front-end developer. I enjoy wireframing, UI, UX and product design. I also enjoy implementing my designs with web development languages (HTML, CSS, JavaScript) and frameworks like bootstrap and React.
+
+Skills: HTML / CSS/ JS / REACT 
+
+- 🔭 I’m currently working on building dynamic web experiences 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/altBeck)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kanno-beck/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/japagodd)  
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altBeck)](https://github.com/anuraghazra/github-readme-stats)
