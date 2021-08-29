@@ -1,10 +1,12 @@
-### Hi there 👋, I'm Beck
-#### Design and Development
 ![Design and Development](https://github.com/altBeck/altBeck/blob/main/Beck%20Banner.png)
+
+# Hi there 👋, I'm Beck
 
 I'm a UI designer and front-end developer. I enjoy wireframing, UI, UX and product design. I also enjoy implementing my designs with web development languages (HTML, CSS, JavaScript) and frameworks like bootstrap and React.
 
-Skills: HTML / CSS/ JS / REACT 
+## Skills and Experience
+* 💻 HTML, CSS, JS
+
 
 - 🔭 I’m currently working on building dynamic web experiences 
 
