@@ -2,6 +2,7 @@
 
 # Beck Kanno
 
+### Hi👋 there,
 I'm a UI designer and front-end developer. I enjoy wireframing, UI, UX and product design. I also enjoy implementing my designs with web development languages (HTML, CSS, JavaScript) and frameworks like bootstrap and React.
 
 ## Skills and Experience
