@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/altBeck/altBeck/blob/main/Beck%20Banner.png)
+![Design and Development](https://github.com/altBeck/altBeck/blob/main/Beck.png)
 
 # Beck Kanno
 
