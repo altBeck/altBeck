@@ -5,7 +5,7 @@
 ### Hi there 👋
 I'm a UI designer and front-end developer. I enjoy wireframing, UI, UX and product design. I also enjoy implementing my designs with web development languages (HTML, CSS, JavaScript) and frameworks like bootstrap and React.
 
-I'm currently an intern to the ongoing HNGi8 Internship, and i'm open to collaborations, contributions to open source and job opportunities. 
+I'm currently open to collaborations, contributions to open source and job opportunities. 
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
