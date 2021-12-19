@@ -9,7 +9,8 @@ I'm currently open to collaborations, contributions to open source and job oppor
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
-* 🖥 Abobe XD, Figma
+* 🖥 TailwindCSS, React
+* 🖥 Abobe XD, Figma, InVision, Blender
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/altBeck)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kanno-beck/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/japagodd)  
