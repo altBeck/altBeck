@@ -1,19 +1,40 @@
-
-
 # Beck Kanno
 
-### Hi there 👋
-I'm a UI designer and front-end developer. I enjoy wireframing, UI, UX and product design. I also enjoy implementing my designs with web development languages (HTML, CSS, JavaScript) and frameworks like Tailwind CSS and React.
+**Product Designer & Design Engineer**
 
-I'm currently open to collaborations, contributions to open source and job opportunities. 
+I design and build complex digital products across fintech, AI, and operational software. My work spans product strategy, UX architecture, interaction design, design systems, and frontend engineering.
 
-## Skills and Experience
-* 💻 HTML, CSS, JS
-* 🖥 TailwindCSS, React
-* 🖥 Abobe XD, Figma, InVision, Blender
+Currently a **Lead Product Designer at Breeze**, working on enterprise trade-finance, compliance, and document-governance products developed through Bridge.
 
+### Selected Work
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/altBeck)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kanno-beck/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/japagodd)  
+**[Continuity](https://readcontinuity.app)**  
+An independent product I'm designing and building to help comic readers discover stories, navigate complex reading orders, and follow spoiler-safe reading journeys.
+
+**[Breeze / Bridge](https://bridgenetwork.trade)**  
+Designing enterprise software across digital trade finance, document management, and compliance. Working on product architecture, multi-role workflows, interaction systems, and build-ready interfaces.
+
+**[Puplar](https://puplar.com)**  
+Redesigned mobile fintech experiences and designed financial operations interfaces across payments, accounts, transfers, virtual cards, and transaction management.
+
+**Ledger**  
+An independent AI observability concept exploring how teams understand AI usage, provider connections, costs, and operational activity.
+
+### Design & Engineering
+
+**Design**  
+Product Strategy · UX Architecture · Interaction Design · Design Systems · Prototyping
+
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML/CSS
+
+**Backend & Tools**  
+Node.js · PostgreSQL · Git · Figma · Blender · Codex · Claude Code
+
+### Connect
+
+[Portfolio](https://bekanno.com) · [LinkedIn](https://www.linkedin.com/in/kanno-beck/) · [Email](mailto:contact@bekanno.com)
+
 
 <a href="https://app.daily.dev/beck"><img src="https://api.daily.dev/devcards/e21b00da912e4319b7294d476a7934ff.png?r=vte" width="400" alt="Kanno Beck's Dev Card"/></a>
 
