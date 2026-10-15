@@ -44,8 +44,7 @@ Node.js · PostgreSQL · Git · Figma · Blender · Codex · Claude Code
   <a href="https://app.daily.dev/beck"><img src="https://api.daily.dev/devcards/e21b00da912e4319b7294d476a7934ff.png?r=vte" width="400" alt="Kanno Beck's Dev Card"/></a>
 </div>
 
-<div>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altBeck)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
   
 </div>
