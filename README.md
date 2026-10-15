@@ -39,9 +39,13 @@ Node.js · PostgreSQL · Git · Figma · Blender · Codex · Claude Code
 [Portfolio](https://bekanno.com) · [LinkedIn](https://www.linkedin.com/in/kanno-beck/) · [Email](mailto:contact@bekanno.com)
 
 <div style="display: flex; gap: 20px;">
+
+<div>
+  <a href="https://app.daily.dev/beck"><img src="https://api.daily.dev/devcards/e21b00da912e4319b7294d476a7934ff.png?r=vte" width="400" alt="Kanno Beck's Dev Card"/></a>
+</div>
+
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altBeck)](https://github.com/anuraghazra/github-readme-stats)
+</div>
   
-<a href="https://app.daily.dev/beck"><img src="https://api.daily.dev/devcards/e21b00da912e4319b7294d476a7934ff.png?r=vte" width="400" alt="Kanno Beck's Dev Card"/></a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altBeck)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
