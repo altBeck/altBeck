@@ -4,9 +4,11 @@
 
 I design and build complex digital products across fintech, AI, and operational software. My work spans product strategy, UX architecture, interaction design, design systems, and frontend engineering.
 
-Currently a **Lead Product Designer at Breeze**, working on enterprise trade-finance, compliance, and document-governance products developed through Bridge.
 
 <!--
+
+Currently a **Lead Product Designer at Breeze**, working on enterprise trade-finance, compliance, and document-governance products developed through Bridge.
+
 ### Selected Work
 
 **[Continuity](https://readcontinuity.app)**  
